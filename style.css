@@ -1,0 +1,22 @@
+
+#maindiv {    
+   margin-top: 15vh; 
+   margin-left: 70vh; 
+   display: flex; 
+   flex-flow: row wrap; 
+   align-items: center;
+   height: 80vh; 
+   width: 80vh;
+   outline: solid;  
+   outline-color: black;
+}
+.box {   
+ 
+ outline: solid; 
+ outline-color:black;   
+ height: 10vh;   
+ width:10vh; 
+}  
+.paragraph{ 
+ color: black;
+}
