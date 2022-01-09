@@ -1,1 +1,1 @@
-Etch-A-Sketch Project 
+This is an Etch A Sketch Project I built as an introduction to JavaScript as well as to become more comfortable with HTML and CSS. I got a lot more comfortable with divs and containters as well as the different methods we can use to display these divs. I decided to use flexbox instead of the obvious pick of grid to become more comfortable with it. 
