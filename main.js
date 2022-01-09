@@ -1,5 +1,5 @@
 //@ts-check
-//Set up shit 
+
 
 //getting the div
 let maindiv = document.getElementById('maindiv');    
